@@ -8,6 +8,8 @@ import { error } from "console";
 import { LatestReviews } from "./LatestReviews";
 import { useOktaAuth } from "@okta/okta-react";
 import ReviewRequestModel from "../../models/ReviewRequestModel";
+import bookImage from '../../Images/BooksImages/book-luv2code-1000.png';
+
 
 export const BookCheckoutPage = () => {
 
