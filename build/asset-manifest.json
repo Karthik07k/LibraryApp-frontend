@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.084afb12.css",
+    "main.js": "/static/js/main.8ddc8032.js",
+    "static/media/image-4.jpg": "/static/media/image-4.3e2078d97fb938c45a1f.jpg",
+    "static/media/image-1.jpg": "/static/media/image-1.86d0184018dc31bf83dc.jpg",
+    "static/media/image-3.jpg": "/static/media/image-3.8ac4c6640b4f274c92b5.jpg",
+    "static/media/book-luv2code-1000.png": "/static/media/book-luv2code-1000.8b0fd6cd7d7fda67040d.png",
+    "static/media/image-2.jpg": "/static/media/image-2.8bb6b32b528986b15fd0.jpg",
+    "static/media/montserrat-regular-webfont.svg": "/static/media/montserrat-regular-webfont.79ee020c048c261b0a8e.svg",
+    "static/media/montserrat-light-webfont.svg": "/static/media/montserrat-light-webfont.94b013df481681d3b9ba.svg",
+    "static/media/okticon.svg": "/static/media/okticon.415c41974fde3d0d67e5.svg",
+    "static/media/montserrat-light-webfont.eot": "/static/media/montserrat-light-webfont.bced23520571bb9c6786.eot",
+    "static/media/montserrat-regular-webfont.eot": "/static/media/montserrat-regular-webfont.bc9d1c64cc1eb7fe21fc.eot",
+    "static/media/montserrat-light-webfont.ttf": "/static/media/montserrat-light-webfont.d7f374f771a6cf745a5f.ttf",
+    "static/media/montserrat-regular-webfont.ttf": "/static/media/montserrat-regular-webfont.e08993fa295c2e06ddad.ttf",
+    "static/media/okticon.eot": "/static/media/okticon.a812bc2c3773a792b40a.eot",
+    "static/media/okticon.ttf": "/static/media/okticon.af5fd3a28c69172a32bf.ttf",
+    "static/media/radiobutton-01@2x.png": "/static/media/radiobutton-01@2x.2f10e12d6a124337f57b.png",
+    "static/media/checkbox-01@2x.png": "/static/media/checkbox-01@2x.1294dd56f87237b78100.png",
+    "static/media/montserrat-light-webfont.woff": "/static/media/montserrat-light-webfont.47314ef8b3f718bd6b25.woff",
+    "static/media/montserrat-regular-webfont.woff": "/static/media/montserrat-regular-webfont.5623bc4fe19097d3a367.woff",
+    "static/media/radiobutton-01.png": "/static/media/radiobutton-01.06ca91686a22690197da.png",
+    "static/media/okticon.woff": "/static/media/okticon.18ead8fda945421a9af7.woff",
+    "static/media/checkbox-01.png": "/static/media/checkbox-01.eae0329fe0b798560519.png",
+    "static/media/yubikeyDemo.png": "/static/media/yubikeyDemo.5ebed9d6de069129f535.png",
+    "static/media/sign-on-widget-spinner.gif": "/static/media/sign-on-widget-spinner.4d69ec9a0b3a6f2272e5.gif",
+    "static/media/u2f_usb.png": "/static/media/u2f_usb.a1709529eeac1fb1f4ee.png",
+    "static/media/apple-app-store.svg": "/static/media/apple-app-store.8c4986ee4828b47d16f5.svg",
+    "static/media/checkbox-sign-in-widget@2x.png": "/static/media/checkbox-sign-in-widget@2x.c357e3c0ce3a6ad6d0b8.png",
+    "static/media/loader@1x.gif": "/static/media/loader@1x.d322a7ce99c785c18f38.gif",
+    "static/media/google-play-store.svg": "/static/media/google-play-store.1d8f7bc81e1b4193482d.svg",
+    "static/media/user-icon.svg": "/static/media/user-icon.6c8f8491ebb11a78bf68.svg",
+    "index.html": "/index.html",
+    "main.084afb12.css.map": "/static/css/main.084afb12.css.map",
+    "main.8ddc8032.js.map": "/static/js/main.8ddc8032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084afb12.css",
+    "static/js/main.8ddc8032.js"
+  ]
+}
