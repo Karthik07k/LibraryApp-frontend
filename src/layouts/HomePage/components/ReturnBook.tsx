@@ -15,7 +15,7 @@ export const ReturnBook: React.FC<{ book: BookModel }> = (props) => {
                         />
                         :
                         <img
-                            src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book-luv2code-1000.png')}
+                            src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book.png')}
                             width='151'
                             height='233'
                             alt="Book"

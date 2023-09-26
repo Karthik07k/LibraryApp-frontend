@@ -14,7 +14,7 @@ export const SearchBook: React.FC<{ book: BookModel }> = (props) => {
                                 alt='Book'
                             />
                             :
-                            <img src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book-luv2code-1000.png')}
+                            <img src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book.png')}
                                 width='123'
                                 height='196'
                                 alt='Book'
@@ -31,7 +31,7 @@ export const SearchBook: React.FC<{ book: BookModel }> = (props) => {
                                 alt='Book'
                             />
                             :
-                            <img src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book-luv2code-1000.png')}
+                            <img src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book.png')}
                                 width='123'
                                 height='196'
                                 alt='Book'

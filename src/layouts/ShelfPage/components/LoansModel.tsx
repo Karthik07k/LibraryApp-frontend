@@ -24,7 +24,7 @@ export const LoansModal: React.FC<{ shelfCurrentLoan: ShelfCurrentLoans, mobile:
                                                 <img src={props.shelfCurrentLoan.book?.img} 
                                                     width='56' height='87' alt='Book'/>
                                                 :
-                                                <img src={require('./../../../Images/BooksImages/book-luv2code-1000.png')} 
+                                                <img src={require('./../../../Images/BooksImages/book.png')} 
                                                     width='56' height='87' alt='Book'/>
                                             }
                                         </div>
