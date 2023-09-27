@@ -77,7 +77,7 @@ export const ChangeQuantityOfBook: React.FC<{ book: BookModel, deleteBook: any }
                         {props.book.img ?
                             <img src={props.book.img} width='123' height='196' alt='Book' />
                             :
-                            <img src={require('./../../../Images/BooksImages/book.png')} 
+                            <img src={require('./../../../Images/BooksImages/book-luv2code-1000.png')} 
                                 width='123' height='196' alt='Book' />
                         }
                     </div>
@@ -85,7 +85,7 @@ export const ChangeQuantityOfBook: React.FC<{ book: BookModel, deleteBook: any }
                         {props.book.img ?
                             <img src={props.book.img} width='123' height='196' alt='Book' />
                             :
-                            <img src={require('./../../../Images/BooksImages/book.png')} 
+                            <img src={require('./../../../Images/BooksImages/book-luv2code-1000.png')} 
                                 width='123' height='196' alt='Book' />
                         }
                     </div>

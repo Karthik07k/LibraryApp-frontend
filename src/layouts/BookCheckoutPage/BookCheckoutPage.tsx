@@ -8,8 +8,6 @@ import { error } from "console";
 import { LatestReviews } from "./LatestReviews";
 import { useOktaAuth } from "@okta/okta-react";
 import ReviewRequestModel from "../../models/ReviewRequestModel";
-import bookImage from '../../Images/BooksImages/book.png';
-
 
 export const BookCheckoutPage = () => {
 
@@ -269,7 +267,7 @@ export const BookCheckoutPage = () => {
                         {book?.img ?
                             <img src={book?.img} width='226' height='349' alt="Book" />
                             :
-                            <img src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book.png')} width='226' height='349' alt="Book" />
+                            <img src={require('../../Images/BooksImages/book-luv2code-1000.png')} width='226' height='349' alt="Book" />
                         }
                     </div>
                     <div className="col-4 col-md-4 container">
@@ -293,7 +291,7 @@ export const BookCheckoutPage = () => {
                     {book?.img ?
                         <img src={book?.img} width='226' height='349' alt="Book" />
                         :
-                        <img src={require('D:/main projects/react-projects/library-app/03-frontend/react-library/src/Images/BooksImages/book.png')} width='226' height='349' alt="Book" />
+                        <img src={require('../../Images/BooksImages/book-luv2code-1000.png')} width='226' height='349' alt="Book" />
                     }
                 </div>
                 <div className="mt-4">
